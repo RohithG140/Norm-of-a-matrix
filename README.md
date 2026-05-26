@@ -11,7 +11,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Program:
 ```Python
 # Register No:212225040347
-# Developed By:Rohith g
+# Developed By:Rohith G
 # 1-Norm of a Matrix
 
 
@@ -48,20 +48,13 @@ print("{:.2f}".format(inf_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
-![alt text](image-1.png)
+![alt text](image.png)
+
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
-![alt text](image-3.png)
+![alt text](image-2.png)
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
